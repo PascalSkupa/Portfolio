@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav-admin/user/config/system.yaml',
-    'modified' => 1585142245,
+    'modified' => 1585143507,
     'data' => [
         'absolute_urls' => false,
         'timezone' => NULL,
@@ -29,7 +29,7 @@ return [
         ],
         'home' => [
             'alias' => '/home',
-            'hide_in_urls' => false
+            'hide_in_urls' => true
         ],
         'pages' => [
             'theme' => 'grav-coder',
