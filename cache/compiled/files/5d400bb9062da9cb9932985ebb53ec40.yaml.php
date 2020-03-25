@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav-admin/user/config/system.yaml',
-    'modified' => 1585143507,
+    'modified' => 1585146235,
     'data' => [
         'absolute_urls' => false,
         'timezone' => NULL,
@@ -195,7 +195,7 @@ return [
             'timeout' => 1800,
             'name' => 'grav-site',
             'uniqueness' => 'path',
-            'secure' => false,
+            'secure' => true,
             'httponly' => true,
             'split' => true,
             'path' => NULL

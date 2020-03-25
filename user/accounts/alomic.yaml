@@ -4,8 +4,15 @@ fullname: 'Pascal Skupa'
 title: Admin
 access:
   admin:
-    login: true
-    super: true
+    super: 'true'
+    login: 'true'
   site:
-    login: true
+    login: 'true'
 hashed_password: $2y$10$KfoOIL43KDecoTKQ52g16.T0DBX9IzSBO9OI74uUtJbdZCnlLpEVa
+password: null
+language: en
+twofa_enabled: false
+twofa_secret: VY6G4VMQKU2BUUQN4XTNCIU2PR2T2L23
+avatar: {  }
+info: null
+groups: null
