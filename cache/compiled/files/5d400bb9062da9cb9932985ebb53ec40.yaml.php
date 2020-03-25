@@ -2,9 +2,9 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav-admin/user/config/system.yaml',
-    'modified' => 1585139328,
+    'modified' => 1585142245,
     'data' => [
-        'absolute_urls' => true,
+        'absolute_urls' => false,
         'timezone' => NULL,
         'default_locale' => NULL,
         'param_sep' => ':',
