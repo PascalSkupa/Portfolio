@@ -1,0 +1,16 @@
+enabled: true
+dropdown:
+  enabled: true
+navbar:
+  title: Pascal Skupa
+footer:
+  copyright: Pascal Skupa
+post:
+  navigation: true
+pagination:
+  count: 10
+social:
+  linkedin:
+    title: LinkedIn
+    url: <url>
+    icon: fa-linkedin-in

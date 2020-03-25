@@ -1,0 +1,9 @@
+enabled: true
+generate:
+  output_url: 'https://pascalskupa.github.io'
+  output_path: /build
+  routes: null
+  simultaneous: null
+  assets: true
+  taxonomy: false
+  force: false
